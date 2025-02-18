@@ -1,6 +1,6 @@
 {
     "name": "@ice1/threno",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "build/index.js",
     "author": "ice1",
     "license": "MIT",
