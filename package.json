@@ -5,6 +5,9 @@
     "author": "ice1",
     "license": "MIT",
     "description": "",
+    "scripts": {
+        "build": "tsc"
+    },
     "devDependencies": {
         "@eslint/js": "^9.20.0",
         "@types/node": "^22.13.4",
