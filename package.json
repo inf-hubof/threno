@@ -1,14 +1,21 @@
 {
-  "name": "threno",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "typescript": "^5.7.3"
-  }
+    "name": "@ice1/threno",
+    "version": "0.0.2",
+    "main": "build/index.js",
+    "author": "ice1",
+    "license": "MIT",
+    "description": "",
+    "devDependencies": {
+        "@eslint/js": "^9.20.0",
+        "@types/node": "^22.13.4",
+        "eslint": "^9.20.1",
+        "globals": "^15.15.0",
+        "prettier": "^3.5.1",
+        "typescript": "^5.7.3",
+        "typescript-eslint": "^8.24.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inf-hubof/threno.git"
+    }
 }
